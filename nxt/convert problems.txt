@@ -1,0 +1,2412 @@
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Account.cs
+Line Number: 53
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Account.cs
+Line Number: 64
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Account.cs
+Line Number: 221
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Account.cs
+Line Number: 344
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Account.cs
+Line Number: 577
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Alias.cs
+Line Number: 30
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Alias.cs
+Line Number: 40
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Alias.cs
+Line Number: 179
+Comment: //JAVA TO VB & C# CONVERTER WARNING: The original Java variable was marked 'final':
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Alias.cs
+Line Number: 182
+Comment: //JAVA TO VB & C# CONVERTER WARNING: The original Java variable was marked 'final':
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Alias.cs
+Line Number: 185
+Comment: //JAVA TO VB & C# CONVERTER WARNING: The original Java variable was marked 'final':
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Appendix.cs
+Line Number: 17
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Appendix.cs
+Line Number: 100
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Appendix.cs
+Line Number: 206
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Appendix.cs
+Line Number: 287
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Appendix.cs
+Line Number: 342
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Appendix.cs
+Line Number: 393
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Attachment.cs
+Line Number: 15
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Attachment.cs
+Line Number: 50
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Attachment.cs
+Line Number: 79
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Attachment.cs
+Line Number: 96
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Attachment.cs
+Line Number: 112
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Attachment.cs
+Line Number: 181
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Attachment.cs
+Line Number: 248
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Attachment.cs
+Line Number: 304
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Attachment.cs
+Line Number: 452
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Attachment.cs
+Line Number: 538
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Attachment.cs
+Line Number: 638
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Attachment.cs
+Line Number: 708
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Attachment.cs
+Line Number: 799
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Attachment.cs
+Line Number: 884
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Attachment.cs
+Line Number: 950
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Attachment.cs
+Line Number: 981
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Attachment.cs
+Line Number: 1012
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Attachment.cs
+Line Number: 1056
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Attachment.cs
+Line Number: 1087
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Attachment.cs
+Line Number: 1118
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Attachment.cs
+Line Number: 1223
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Attachment.cs
+Line Number: 1278
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Attachment.cs
+Line Number: 1344
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Attachment.cs
+Line Number: 1410
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Attachment.cs
+Line Number: 1498
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Attachment.cs
+Line Number: 1593
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Attachment.cs
+Line Number: 1648
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Attachment.cs
+Line Number: 1714
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Block.cs
+Line Number: 40
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Block.cs
+Line Number: 43
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Blockchain.cs
+Line Number: 24
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Blockchain.cs
+Line Number: 27
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Blockchain.cs
+Line Number: 30
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Blockchain.cs
+Line Number: 33
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Blockchain.cs
+Line Number: 36
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Blockchain.cs
+Line Number: 39
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Blockchain.cs
+Line Number: 42
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Blockchain.cs
+Line Number: 45
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Blockchain.cs
+Line Number: 48
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Blockchain.cs
+Line Number: 51
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Blockchain.cs
+Line Number: 56
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Blockchain.cs
+Line Number: 59
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Blockchain.cs
+Line Number: 74
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Blockchain.cs
+Line Number: 77
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Blockchain.cs
+Line Number: 80
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Blockchain.cs
+Line Number: 83
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Blockchain.cs
+Line Number: 86
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Blockchain.cs
+Line Number: 89
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Blockchain.cs
+Line Number: 92
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Blockchain.cs
+Line Number: 95
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\BlockchainProcessor.cs
+Line Number: 15
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\BlockchainProcessor.cs
+Line Number: 32
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\BlockchainProcessor.cs
+Line Number: 44
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\BlockchainProcessor.cs
+Line Number: 47
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\BlockchainProcessor.cs
+Line Number: 53
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\BlockchainProcessor.cs
+Line Number: 64
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\BlockchainProcessor.cs
+Line Number: 83
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\BlockchainProcessorImpl.cs
+Line Number: 57
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\BlockchainProcessorImpl.cs
+Line Number: 495
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\BlockchainProcessorImpl.cs
+Line Number: 603
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\BlockchainProcessorImpl.cs
+Line Number: 605
+Comment: //JAVA TO VB & C# CONVERTER WARNING: 'final' parameters are not allowed in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\BlockchainProcessorImpl.cs
+Line Number: 795
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\BlockchainProcessorImpl.cs
+Line Number: 883
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\BlockchainProcessorImpl.cs
+Line Number: 972
+Comment: //JAVA TO VB & C# CONVERTER WARNING: The original Java variable was marked 'final':
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\BlockDb.cs
+Line Number: 153
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\BlockImpl.cs
+Line Number: 39
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\BlockImpl.cs
+Line Number: 79
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\BlockImpl.cs
+Line Number: 316
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\BlockImpl.cs
+Line Number: 410
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\crypto\ReedSolomon.cs
+Line Number: 69
+Comment: //JAVA TO VB & C# CONVERTER WARNING: The original Java variable was marked 'final':
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\crypto\ReedSolomon.cs
+Line Number: 83
+Comment: //JAVA TO VB & C# CONVERTER WARNING: The original Java variable was marked 'final':
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\crypto\ReedSolomon.cs
+Line Number: 86
+Comment: //JAVA TO VB & C# CONVERTER WARNING: The original Java variable was marked 'final':
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\crypto\ReedSolomon.cs
+Line Number: 99
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\crypto\ReedSolomon.cs
+Line Number: 165
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: There is no .NET StringBuilder equivalent to the Java 'reverse' method:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\Db.cs
+Line Number: 29
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\Db.cs
+Line Number: 39
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\Db.cs
+Line Number: 57
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\Db.cs
+Line Number: 64
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\Db.cs
+Line Number: 82
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\Db.cs
+Line Number: 89
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\Db.cs
+Line Number: 163
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\Db.cs
+Line Number: 180
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\DbClause.cs
+Line Number: 23
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\DbClause.cs
+Line Number: 38
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\DbClause.cs
+Line Number: 58
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\DbIterator.cs
+Line Number: 13
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\DbKey.cs
+Line Number: 8
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\DbKey.cs
+Line Number: 45
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\DbKey.cs
+Line Number: 49
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\DbKey.cs
+Line Number: 54
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\DbKey.cs
+Line Number: 78
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\DbKey.cs
+Line Number: 104
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\DbKey.cs
+Line Number: 138
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\DbUtils.cs
+Line Number: 27
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\DbUtils.cs
+Line Number: 41
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\DbUtils.cs
+Line Number: 55
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\DbUtils.cs
+Line Number: 69
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\DbUtils.cs
+Line Number: 104
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\EntityDbTable.cs
+Line Number: 27
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\EntityDbTable.cs
+Line Number: 31
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\EntityDbTable.cs
+Line Number: 122
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\EntityDbTable.cs
+Line Number: 126
+Comment: //JAVA TO VB & C# CONVERTER WARNING: The original Java variable was marked 'final':
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\EntityDbTable.cs
+Line Number: 215
+Comment: //JAVA TO VB & C# CONVERTER WARNING: The original Java variable was marked 'final':
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 18
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 25
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 32
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 39
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 46
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 60
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 63
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 70
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 77
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 84
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 94
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 104
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 118
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 121
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 135
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 138
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 152
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 155
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 165
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 172
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 179
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 186
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 193
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 195
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 208
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 211
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 225
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 228
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 235
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 245
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 252
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 259
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 266
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 273
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 280
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 287
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 294
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 301
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 308
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 315
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 322
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 329
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 336
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 343
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 357
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 364
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 367
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 374
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 381
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 395
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 398
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 405
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 412
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 422
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\FilteredConnection.cs
+Line Number: 429
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\ValuesDbTable.cs
+Line Number: 24
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\ValuesDbTable.cs
+Line Number: 28
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\VersionedEntityDbTable.cs
+Line Number: 76
+Comment: //JAVA TO VB & C# CONVERTER WARNING: 'final' parameters are not allowed in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\db\VersionedEntityDbTable.cs
+Line Number: 113
+Comment: //JAVA TO VB & C# CONVERTER WARNING: 'final' parameters are not allowed in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\DebugTrace.cs
+Line Number: 39
+Comment: //JAVA TO VB & C# CONVERTER WARNING: The original Java variable was marked 'final':
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\DebugTrace.cs
+Line Number: 48
+Comment: //JAVA TO VB & C# CONVERTER WARNING: The original Java variable was marked 'final':
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\DigitalGoodsStore.cs
+Line Number: 622
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\DigitalGoodsStore.cs
+Line Number: 635
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\DigitalGoodsStore.cs
+Line Number: 664
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\DigitalGoodsStore.cs
+Line Number: 684
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\DigitalGoodsStore.cs
+Line Number: 704
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Generator.cs
+Line Number: 33
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Generator.cs
+Line Number: 285
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\API.cs
+Line Number: 55
+Comment: //JAVA TO VB & C# CONVERTER WARNING: The original Java variable was marked 'final':
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\API.cs
+Line Number: 58
+Comment: //JAVA TO VB & C# CONVERTER WARNING: The original Java variable was marked 'final':
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\APIServlet.cs
+Line Number: 20
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\APIServlet.cs
+Line Number: 22
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\APIServlet.cs
+Line Number: 24
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\APIServlet.cs
+Line Number: 58
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\APIServlet.cs
+Line Number: 190
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\APIServlet.cs
+Line Number: 197
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\APIServlet.cs
+Line Number: 204
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\APITag.cs
+Line Number: 7
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Enum values cannot be strings in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\APITag.cs
+Line Number: 9
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Enum values cannot be strings in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\APITag.cs
+Line Number: 11
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Enum values cannot be strings in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\APITag.cs
+Line Number: 14
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Enums cannot contain fields in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\APITag.cs
+Line Number: 17
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Enums cannot contain methods in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\APITestServlet.cs
+Line Number: 28
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: There is no .NET Dictionary equivalent to the Java 'entrySet' method:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\APITestServlet.cs
+Line Number: 74
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\BroadcastTransaction.cs
+Line Number: 25
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\BuyAlias.cs
+Line Number: 12
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\BuyAlias.cs
+Line Number: 25
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\CalculateFullHash.cs
+Line Number: 11
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\CalculateFullHash.cs
+Line Number: 13
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\CancelAskOrder.cs
+Line Number: 12
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\CancelAskOrder.cs
+Line Number: 24
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\CancelBidOrder.cs
+Line Number: 12
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\CancelBidOrder.cs
+Line Number: 24
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\CastVote.cs
+Line Number: 15
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\CastVote.cs
+Line Number: 17
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\CastVote.cs
+Line Number: 19
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\CastVote.cs
+Line Number: 31
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\CreatePoll.cs
+Line Number: 15
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\CreatePoll.cs
+Line Number: 17
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\CreatePoll.cs
+Line Number: 19
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\CreatePoll.cs
+Line Number: 21
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\CreatePoll.cs
+Line Number: 23
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\CreatePoll.cs
+Line Number: 25
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\CreatePoll.cs
+Line Number: 27
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\CreatePoll.cs
+Line Number: 29
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\CreatePoll.cs
+Line Number: 31
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\CreatePoll.cs
+Line Number: 33
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\CreatePoll.cs
+Line Number: 35
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\CreatePoll.cs
+Line Number: 47
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\CreateTransaction.cs
+Line Number: 20
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\CreateTransaction.cs
+Line Number: 22
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\CreateTransaction.cs
+Line Number: 24
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\CreateTransaction.cs
+Line Number: 26
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\CreateTransaction.cs
+Line Number: 28
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\CreateTransaction.cs
+Line Number: 30
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\CreateTransaction.cs
+Line Number: 32
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\CreateTransaction.cs
+Line Number: 52
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\CreateTransaction.cs
+Line Number: 59
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\CreateTransaction.cs
+Line Number: 66
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DbShellServlet.cs
+Line Number: 22
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DbShellServlet.cs
+Line Number: 43
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DecodeHallmark.cs
+Line Number: 11
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DecodeHallmark.cs
+Line Number: 13
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DecodeToken.cs
+Line Number: 11
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DecodeToken.cs
+Line Number: 13
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DecodeToken.cs
+Line Number: 15
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DecryptFrom.cs
+Line Number: 16
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DecryptFrom.cs
+Line Number: 18
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DecryptFrom.cs
+Line Number: 30
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DGSDelisting.cs
+Line Number: 12
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DGSDelisting.cs
+Line Number: 24
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DGSDelivery.cs
+Line Number: 17
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DGSDelivery.cs
+Line Number: 19
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DGSDelivery.cs
+Line Number: 21
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DGSDelivery.cs
+Line Number: 23
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DGSDelivery.cs
+Line Number: 35
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DGSFeedback.cs
+Line Number: 12
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DGSFeedback.cs
+Line Number: 14
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DGSFeedback.cs
+Line Number: 26
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DGSListing.cs
+Line Number: 13
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DGSListing.cs
+Line Number: 15
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DGSListing.cs
+Line Number: 17
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DGSListing.cs
+Line Number: 19
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DGSListing.cs
+Line Number: 31
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DGSPriceChange.cs
+Line Number: 12
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DGSPriceChange.cs
+Line Number: 24
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DGSPurchase.cs
+Line Number: 16
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DGSPurchase.cs
+Line Number: 18
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DGSPurchase.cs
+Line Number: 20
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DGSPurchase.cs
+Line Number: 22
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DGSPurchase.cs
+Line Number: 24
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DGSPurchase.cs
+Line Number: 36
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DGSQuantityChange.cs
+Line Number: 16
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DGSQuantityChange.cs
+Line Number: 18
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DGSQuantityChange.cs
+Line Number: 20
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DGSQuantityChange.cs
+Line Number: 32
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DGSRefund.cs
+Line Number: 16
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DGSRefund.cs
+Line Number: 18
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DGSRefund.cs
+Line Number: 20
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DGSRefund.cs
+Line Number: 22
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\DGSRefund.cs
+Line Number: 34
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\EncryptTo.cs
+Line Number: 11
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\EncryptTo.cs
+Line Number: 23
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GenerateToken.cs
+Line Number: 12
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GenerateToken.cs
+Line Number: 14
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GenerateToken.cs
+Line Number: 16
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetAccount.cs
+Line Number: 25
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetAccountBlockIds.cs
+Line Number: 24
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetAccountBlockIds.cs
+Line Number: 35
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetAccountBlocks.cs
+Line Number: 24
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetAccountBlocks.cs
+Line Number: 37
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetAccountCurrentAskOrderIds.cs
+Line Number: 25
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetAccountCurrentAskOrders.cs
+Line Number: 25
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetAccountCurrentBidOrderIds.cs
+Line Number: 24
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetAccountCurrentBidOrders.cs
+Line Number: 24
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetAccountId.cs
+Line Number: 12
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetAccountLessors.cs
+Line Number: 25
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetAccountPublicKey.cs
+Line Number: 22
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetAccountTransactionIds.cs
+Line Number: 26
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetAccountTransactionIds.cs
+Line Number: 58
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetAccountTransactions.cs
+Line Number: 26
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetAccountTransactions.cs
+Line Number: 58
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetAlias.cs
+Line Number: 18
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetAliases.cs
+Line Number: 22
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetAliases.cs
+Line Number: 26
+Comment: //JAVA TO VB & C# CONVERTER WARNING: The original Java variable was marked 'final':
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetAliases.cs
+Line Number: 29
+Comment: //JAVA TO VB & C# CONVERTER WARNING: The original Java variable was marked 'final':
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetAllTrades.cs
+Line Number: 22
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetAllTrades.cs
+Line Number: 26
+Comment: //JAVA TO VB & C# CONVERTER WARNING: The original Java variable was marked 'final':
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetAskOrder.cs
+Line Number: 10
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetAskOrder.cs
+Line Number: 22
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetAskOrderIds.cs
+Line Number: 23
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetAskOrders.cs
+Line Number: 22
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetAsset.cs
+Line Number: 18
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetAssetAccounts.cs
+Line Number: 23
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetAssets.cs
+Line Number: 14
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetAssets.cs
+Line Number: 16
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetAssetsByIssuer.cs
+Line Number: 24
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetAssetTransfers.cs
+Line Number: 26
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetBalance.cs
+Line Number: 18
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetBidOrder.cs
+Line Number: 10
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetBidOrder.cs
+Line Number: 22
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetBidOrderIds.cs
+Line Number: 23
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetBidOrders.cs
+Line Number: 22
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetBlock.cs
+Line Number: 13
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetBlock.cs
+Line Number: 15
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetBlock.cs
+Line Number: 17
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetBlock.cs
+Line Number: 19
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetBlockId.cs
+Line Number: 13
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetBlockId.cs
+Line Number: 15
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetBlocks.cs
+Line Number: 23
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetBlocks.cs
+Line Number: 38
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetDGSGood.cs
+Line Number: 18
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetDGSGoods.cs
+Line Number: 23
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetDGSPendingPurchases.cs
+Line Number: 13
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetDGSPendingPurchases.cs
+Line Number: 25
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetDGSPurchase.cs
+Line Number: 18
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetDGSPurchases.cs
+Line Number: 23
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetDGSPurchases.cs
+Line Number: 32
+Comment: //JAVA TO VB & C# CONVERTER WARNING: The original Java variable was marked 'final':
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetECBlock.cs
+Line Number: 22
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetForging.cs
+Line Number: 15
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetForging.cs
+Line Number: 17
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetForging.cs
+Line Number: 19
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetGuaranteedBalance.cs
+Line Number: 22
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetPeer.cs
+Line Number: 10
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetPeer.cs
+Line Number: 12
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetPoll.cs
+Line Number: 12
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetPoll.cs
+Line Number: 14
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetPoll.cs
+Line Number: 16
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetTrades.cs
+Line Number: 26
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetTransaction.cs
+Line Number: 13
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetTransaction.cs
+Line Number: 15
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetTransaction.cs
+Line Number: 17
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetTransactionBytes.cs
+Line Number: 14
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetTransactionBytes.cs
+Line Number: 16
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetTransactionBytes.cs
+Line Number: 18
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetUnconfirmedTransactionIds.cs
+Line Number: 16
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetUnconfirmedTransactionIds.cs
+Line Number: 47
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetUnconfirmedTransactions.cs
+Line Number: 16
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\GetUnconfirmedTransactions.cs
+Line Number: 47
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\IssueAsset.cs
+Line Number: 15
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\IssueAsset.cs
+Line Number: 17
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\IssueAsset.cs
+Line Number: 19
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\IssueAsset.cs
+Line Number: 21
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\IssueAsset.cs
+Line Number: 23
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\IssueAsset.cs
+Line Number: 35
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\LeaseBalance.cs
+Line Number: 15
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\LeaseBalance.cs
+Line Number: 17
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\LeaseBalance.cs
+Line Number: 29
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\MarkHost.cs
+Line Number: 13
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\MarkHost.cs
+Line Number: 15
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\MarkHost.cs
+Line Number: 17
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\MarkHost.cs
+Line Number: 19
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\MarkHost.cs
+Line Number: 21
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\MarkHost.cs
+Line Number: 23
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\MarkHost.cs
+Line Number: 25
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\ParameterParser.cs
+Line Number: 25
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\ParameterParser.cs
+Line Number: 31
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\ParameterParser.cs
+Line Number: 65
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\ParameterParser.cs
+Line Number: 90
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\ParameterParser.cs
+Line Number: 115
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\ParameterParser.cs
+Line Number: 140
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\ParameterParser.cs
+Line Number: 166
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\ParameterParser.cs
+Line Number: 191
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\ParameterParser.cs
+Line Number: 210
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\ParameterParser.cs
+Line Number: 236
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\ParameterParser.cs
+Line Number: 256
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\ParameterParser.cs
+Line Number: 295
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\ParameterParser.cs
+Line Number: 331
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\ParameterParser.cs
+Line Number: 351
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\ParameterParser.cs
+Line Number: 375
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\ParameterParser.cs
+Line Number: 387
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\ParameterParser.cs
+Line Number: 420
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\ParameterParser.cs
+Line Number: 444
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\ParameterParser.cs
+Line Number: 477
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\ParameterParser.cs
+Line Number: 502
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\ParameterParser.cs
+Line Number: 527
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\ParameterParser.cs
+Line Number: 542
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\ParameterParser.cs
+Line Number: 593
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\ParameterParser.cs
+Line Number: 617
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\ParameterParser.cs
+Line Number: 645
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\ParseTransaction.cs
+Line Number: 24
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\PlaceAskOrder.cs
+Line Number: 12
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\PlaceAskOrder.cs
+Line Number: 24
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\PlaceBidOrder.cs
+Line Number: 13
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\PlaceBidOrder.cs
+Line Number: 25
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\PopOff.cs
+Line Number: 45
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\ReadMessage.cs
+Line Number: 18
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\ReadMessage.cs
+Line Number: 20
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\ReadMessage.cs
+Line Number: 22
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\ReadMessage.cs
+Line Number: 24
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\ReadMessage.cs
+Line Number: 36
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\RSConvert.cs
+Line Number: 12
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\RSConvert.cs
+Line Number: 14
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\SellAlias.cs
+Line Number: 16
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\SellAlias.cs
+Line Number: 18
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\SellAlias.cs
+Line Number: 20
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\SellAlias.cs
+Line Number: 22
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\SellAlias.cs
+Line Number: 35
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\SendMessage.cs
+Line Number: 20
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\SendMoney.cs
+Line Number: 19
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\SetAccountInfo.cs
+Line Number: 13
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\SetAccountInfo.cs
+Line Number: 15
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\SetAccountInfo.cs
+Line Number: 27
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\SetAlias.cs
+Line Number: 16
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\SetAlias.cs
+Line Number: 18
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\SetAlias.cs
+Line Number: 20
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\SetAlias.cs
+Line Number: 22
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\SetAlias.cs
+Line Number: 34
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\SignTransaction.cs
+Line Number: 16
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\SignTransaction.cs
+Line Number: 28
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\StartForging.cs
+Line Number: 10
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\StartForging.cs
+Line Number: 12
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\StopForging.cs
+Line Number: 10
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\TransferAsset.cs
+Line Number: 12
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\http\TransferAsset.cs
+Line Number: 24
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Hub.cs
+Line Number: 115
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Hub.cs
+Line Number: 125
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Order.cs
+Line Number: 74
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Order.cs
+Line Number: 86
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Order.cs
+Line Number: 228
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: C# doesn't allow accessing outer class instance members within a nested class:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Order.cs
+Line Number: 231
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: C# doesn't allow accessing outer class instance members within a nested class:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Order.cs
+Line Number: 235
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: C# doesn't allow accessing outer class instance members within a nested class:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Order.cs
+Line Number: 238
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: C# doesn't allow accessing outer class instance members within a nested class:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Order.cs
+Line Number: 242
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: C# doesn't allow accessing outer class instance members within a nested class:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Order.cs
+Line Number: 245
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Order.cs
+Line Number: 258
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: C# doesn't allow accessing outer class instance members within a nested class:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Order.cs
+Line Number: 261
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: C# doesn't allow accessing outer class instance members within a nested class:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Order.cs
+Line Number: 265
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: C# doesn't allow accessing outer class instance members within a nested class:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Order.cs
+Line Number: 270
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: C# doesn't allow accessing outer class instance members within a nested class:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Order.cs
+Line Number: 319
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: C# doesn't allow accessing outer class instance members within a nested class:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Order.cs
+Line Number: 322
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: C# doesn't allow accessing outer class instance members within a nested class:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Order.cs
+Line Number: 324
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: C# doesn't allow accessing outer class instance members within a nested class:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Order.cs
+Line Number: 329
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: C# doesn't allow accessing outer class instance members within a nested class:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Order.cs
+Line Number: 336
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: C# doesn't allow accessing outer class instance members within a nested class:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Order.cs
+Line Number: 416
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\peer\GetNextBlocks.cs
+Line Number: 33
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\peer\GetUnconfirmedTransactions.cs
+Line Number: 27
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\peer\Peer.cs
+Line Number: 12
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\peer\PeerImpl.cs
+Line Number: 330
+Comment: //JAVA TO VB & C# CONVERTER WARNING: 'final' parameters are not allowed in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\peer\PeerImpl.cs
+Line Number: 519
+Comment: //JAVA TO VB & C# CONVERTER WARNING: 'final' parameters are not allowed in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\peer\Peers.cs
+Line Number: 205
+Comment: //JAVA TO VB & C# CONVERTER WARNING: The original Java variable was marked 'final':
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\peer\Peers.cs
+Line Number: 217
+Comment: //JAVA TO VB & C# CONVERTER WARNING: The original Java variable was marked 'final':
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\peer\Peers.cs
+Line Number: 221
+Comment: //JAVA TO VB & C# CONVERTER WARNING: The original Java variable was marked 'final':
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\peer\Peers.cs
+Line Number: 287
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\peer\Peers.cs
+Line Number: 322
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\peer\Peers.cs
+Line Number: 369
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\peer\Peers.cs
+Line Number: 540
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\peer\Peers.cs
+Line Number: 545
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\peer\Peers.cs
+Line Number: 552
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\peer\Peers.cs
+Line Number: 557
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\peer\Peers.cs
+Line Number: 572
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\peer\Peers.cs
+Line Number: 575
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\peer\Peers.cs
+Line Number: 629
+Comment: //JAVA TO VB & C# CONVERTER WARNING: 'final' parameters are not allowed in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\peer\Peers.cs
+Line Number: 721
+Comment: //JAVA TO VB & C# CONVERTER WARNING: 'final' parameters are not allowed in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\peer\Peers.cs
+Line Number: 726
+Comment: //JAVA TO VB & C# CONVERTER WARNING: The original Java variable was marked 'final':
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\peer\PeerServlet.cs
+Line Number: 61
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\peer\PeerServlet.cs
+Line Number: 69
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Poll.cs
+Line Number: 43
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Poll.cs
+Line Number: 57
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Transaction.cs
+Line Number: 12
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Transaction.cs
+Line Number: 74
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Transaction.cs
+Line Number: 92
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Transaction.cs
+Line Number: 95
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionDb.cs
+Line Number: 95
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionImpl.cs
+Line Number: 57
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionImpl.cs
+Line Number: 191
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionImpl.cs
+Line Number: 207
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionImpl.cs
+Line Number: 455
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionImpl.cs
+Line Number: 460
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionImpl.cs
+Line Number: 644
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionImpl.cs
+Line Number: 774
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionImpl.cs
+Line Number: 938
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionProcessor.cs
+Line Number: 10
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionProcessor.cs
+Line Number: 14
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionProcessor.cs
+Line Number: 23
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionProcessor.cs
+Line Number: 26
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionProcessor.cs
+Line Number: 33
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionProcessor.cs
+Line Number: 37
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionProcessor.cs
+Line Number: 41
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionProcessor.cs
+Line Number: 45
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionProcessorImpl.cs
+Line Number: 40
+Comment: //JAVA TO VB & C# CONVERTER WARNING: The original Java variable was marked 'final':
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionProcessorImpl.cs
+Line Number: 116
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionProcessorImpl.cs
+Line Number: 121
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionProcessorImpl.cs
+Line Number: 191
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionProcessorImpl.cs
+Line Number: 238
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionProcessorImpl.cs
+Line Number: 310
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionProcessorImpl.cs
+Line Number: 317
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionProcessorImpl.cs
+Line Number: 324
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionType.cs
+Line Number: 152
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionType.cs
+Line Number: 156
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionType.cs
+Line Number: 160
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionType.cs
+Line Number: 281
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionType.cs
+Line Number: 336
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionType.cs
+Line Number: 375
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionType.cs
+Line Number: 435
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionType.cs
+Line Number: 513
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionType.cs
+Line Number: 582
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionType.cs
+Line Number: 633
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionType.cs
+Line Number: 686
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionType.cs
+Line Number: 740
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionType.cs
+Line Number: 798
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionType.cs
+Line Number: 868
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionType.cs
+Line Number: 945
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionType.cs
+Line Number: 972
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionType.cs
+Line Number: 1020
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionType.cs
+Line Number: 1070
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionType.cs
+Line Number: 1082
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionType.cs
+Line Number: 1102
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionType.cs
+Line Number: 1143
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionType.cs
+Line Number: 1209
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionType.cs
+Line Number: 1220
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionType.cs
+Line Number: 1225
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionType.cs
+Line Number: 1266
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionType.cs
+Line Number: 1318
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionType.cs
+Line Number: 1371
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionType.cs
+Line Number: 1424
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionType.cs
+Line Number: 1499
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionType.cs
+Line Number: 1551
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionType.cs
+Line Number: 1615
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\TransactionType.cs
+Line Number: 1714
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\user\GenerateAuthorizationToken.cs
+Line Number: 10
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\user\GenerateAuthorizationToken.cs
+Line Number: 22
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\user\GetInitialData.cs
+Line Number: 27
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\user\GetInitialData.cs
+Line Number: 36
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\user\GetInitialData.cs
+Line Number: 114
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\user\GetNewData.cs
+Line Number: 17
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\user\LockAccount.cs
+Line Number: 8
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\user\LockAccount.cs
+Line Number: 20
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\user\RemoveActivePeer.cs
+Line Number: 11
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\user\RemoveActivePeer.cs
+Line Number: 23
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\user\RemoveBlacklistedPeer.cs
+Line Number: 11
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\user\RemoveBlacklistedPeer.cs
+Line Number: 23
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\user\RemoveKnownPeer.cs
+Line Number: 11
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\user\RemoveKnownPeer.cs
+Line Number: 23
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\user\SendMoney.cs
+Line Number: 18
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\user\SendMoney.cs
+Line Number: 30
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\user\SendMoney.cs
+Line Number: 150
+Comment: //JAVA TO VB & C# CONVERTER WARNING: The original Java variable was marked 'final':
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\user\UnlockAccount.cs
+Line Number: 19
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\user\UnlockAccount.cs
+Line Number: 100
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\user\UnlockAccount.cs
+Line Number: 149
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\user\UnlockAccount.cs
+Line Number: 171
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\user\Users.cs
+Line Number: 80
+Comment: //JAVA TO VB & C# CONVERTER WARNING: The original Java variable was marked 'final':
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\user\Users.cs
+Line Number: 83
+Comment: //JAVA TO VB & C# CONVERTER WARNING: The original Java variable was marked 'final':
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\user\Users.cs
+Line Number: 188
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\user\Users.cs
+Line Number: 192
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\user\Users.cs
+Line Number: 196
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\user\Users.cs
+Line Number: 200
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Java wildcard generics are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\user\UserServlet.cs
+Line Number: 18
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\user\UserServlet.cs
+Line Number: 20
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\user\UserServlet.cs
+Line Number: 22
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: This Java 'import static' statement cannot be converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\user\UserServlet.cs
+Line Number: 30
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\user\UserServlet.cs
+Line Number: 58
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\user\UserServlet.cs
+Line Number: 65
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\user\UserServlet.cs
+Line Number: 72
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\util\Convert.cs
+Line Number: 200
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\util\Convert.cs
+Line Number: 252
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\util\Convert.cs
+Line Number: 263
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\util\Convert.cs
+Line Number: 274
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\util\Convert.cs
+Line Number: 285
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\util\Convert.cs
+Line Number: 296
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\util\Convert.cs
+Line Number: 307
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\util\CountingInputStream.cs
+Line Number: 14
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\util\CountingInputStream.cs
+Line Number: 26
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\util\CountingInputStream.cs
+Line Number: 38
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\util\CountingOutputStream.cs
+Line Number: 14
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\util\JSON.cs
+Line Number: 17
+Comment: //JAVA TO VB & C# CONVERTER WARNING: 'final' parameters are not allowed in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\util\JSON.cs
+Line Number: 21
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\util\JSON.cs
+Line Number: 32
+Comment: //JAVA TO VB & C# CONVERTER WARNING: 'final' parameters are not allowed in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\util\NxtLogManager.cs
+Line Number: 33
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\util\ThreadPool.cs
+Line Number: 86
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: There is no .NET Dictionary equivalent to the Java 'entrySet' method:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\util\ThreadPool.cs
+Line Number: 94
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\util\ThreadPool.cs
+Line Number: 140
+Comment: //JAVA TO VB & C# CONVERTER WARNING: The original Java variable was marked 'final':
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\util\ThreadPool.cs
+Line Number: 145
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\util\Time.cs
+Line Number: 12
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\util\Time.cs
+Line Number: 23
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\util\Time.cs
+Line Number: 41
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\util\Time.cs
+Line Number: 67
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: Interfaces cannot contain types in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\VerifyTrace.cs
+Line Number: 78
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: There is no .NET Dictionary equivalent to the Java 'entrySet' method:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\VerifyTrace.cs
+Line Number: 123
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: There is no .NET Dictionary equivalent to the Java 'entrySet' method:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\VerifyTrace.cs
+Line Number: 149
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: There is no .NET Dictionary equivalent to the Java 'entrySet' method:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\VerifyTrace.cs
+Line Number: 155
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: There is no .NET Dictionary equivalent to the Java 'entrySet' method:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\VerifyTrace.cs
+Line Number: 179
+Comment: //JAVA TO VB & C# CONVERTER TODO TASK: There is no .NET Dictionary equivalent to the Java 'entrySet' method:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Vote.cs
+Line Number: 73
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
+File: C:\Users\p0018336\Downloads\nxt CSharp\src\java\nxt\Vote.cs
+Line Number: 84
+Comment: //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
+--------------------------------------------------------------------------------------
