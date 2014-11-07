@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nxt", "nxt\nxt.csproj", "{6
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nxt.Web", "Nxt.Web\Nxt.Web.csproj", "{C6620CC7-B813-4BE8-A15D-FC5F9A05163E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nxt.Web.Tests", "Nxt.Web.Tests\Nxt.Web.Tests.csproj", "{DF343716-BFA8-463B-96B5-4ABE9339E0D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C6620CC7-B813-4BE8-A15D-FC5F9A05163E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6620CC7-B813-4BE8-A15D-FC5F9A05163E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6620CC7-B813-4BE8-A15D-FC5F9A05163E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF343716-BFA8-463B-96B5-4ABE9339E0D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF343716-BFA8-463B-96B5-4ABE9339E0D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF343716-BFA8-463B-96B5-4ABE9339E0D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF343716-BFA8-463B-96B5-4ABE9339E0D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
