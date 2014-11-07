@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nxt", "nxt\nxt.csproj", "{6EAAC926-51F8-43CC-AA54-7F40F91D1AC7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nxt.Web", "Nxt.Web\Nxt.Web.csproj", "{C6620CC7-B813-4BE8-A15D-FC5F9A05163E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6EAAC926-51F8-43CC-AA54-7F40F91D1AC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6EAAC926-51F8-43CC-AA54-7F40F91D1AC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6EAAC926-51F8-43CC-AA54-7F40F91D1AC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6620CC7-B813-4BE8-A15D-FC5F9A05163E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6620CC7-B813-4BE8-A15D-FC5F9A05163E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6620CC7-B813-4BE8-A15D-FC5F9A05163E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6620CC7-B813-4BE8-A15D-FC5F9A05163E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
