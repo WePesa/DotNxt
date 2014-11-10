@@ -601,8 +601,7 @@ namespace nxt
 		}
 
 //JAVA TO VB & C# CONVERTER WARNING: Method 'throws' clauses are not available in .NET:
-//ORIGINAL LINE: private void pushBlock(final BlockImpl block) throws BlockNotAcceptedException
-//JAVA TO VB & C# CONVERTER WARNING: 'final' parameters are not allowed in .NET:
+//ORIGINAL LINE: private void pushBlock(BlockImpl block) throws BlockNotAcceptedException
 		private void pushBlock(BlockImpl block)
 		{
 

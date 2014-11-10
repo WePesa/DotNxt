@@ -240,7 +240,7 @@ namespace nxt
 			}
 
 //JAVA TO VB & C# CONVERTER TODO TASK: C# doesn't allow accessing outer class instance members within a nested class:
-			public static DbIterator<Ask> getAskOrdersByAccountAsset(final long accountId, final long assetId, int from, int to)
+			public static DbIterator<Ask> getAskOrdersByAccountAsset(long accountId, long assetId, int from, int to)
 			{
 //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
 //				DbClause dbClause = new DbClause(" account_id = ? AND asset_id = ? ")
@@ -411,7 +411,7 @@ namespace nxt
 				return bidOrderTable.getManyBy(new DbClause.LongClause("asset_id", assetId), from, to);
 			}
 
-			public static DbIterator<Bid> getBidOrdersByAccountAsset(final long accountId, final long assetId, int from, int to)
+			public static DbIterator<Bid> getBidOrdersByAccountAsset(long accountId, final long assetId, int from, int to)
 			{
 //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
 //				DbClause dbClause = new DbClause(" account_id = ? AND asset_id = ? ")

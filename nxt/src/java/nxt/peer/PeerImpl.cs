@@ -326,9 +326,6 @@ namespace nxt.peer
 			}
 		}
 
-
-//JAVA TO VB & C# CONVERTER WARNING: 'final' parameters are not allowed in .NET:
-//ORIGINAL LINE: public JSONObject send(final JSONStreamAware request)
 		public override JSONObject send(JSONStreamAware request)
 		{
 

@@ -206,7 +206,7 @@ namespace nxt.peer
 //ORIGINAL LINE: final List<Future<String>> unresolvedPeers = Collections.synchronizedList(new ArrayList<Future<String>>());
 			IList<Future<string>> unresolvedPeers = Collections.synchronizedList(new List<Future<string>>());
 
-			ThreadPool.runBeforeStart(new Runnable() { private void loadPeers(ICollection<string> addresses) { for(final string address : addresses) { Future<string> unresolvedAddress = sendToPeersService.submit(new Callable<string>() { public string call() { Peer peer = Peers.addPeer(address); return peer == null ? address : null; } }); unresolvedPeers.Add(unresolvedAddress); } } Override public void run() { if(! wellKnownPeers.Empty) { loadPeers(wellKnownPeers); } if(usePeersDb) { Logger.logDebugMessage("Loading known peers from the database..."); loadPeers(PeerDb.loadPeers()); } } }, false);
+			ThreadPool.runBeforeStart(new Runnable() { private void loadPeers(ICollection<string> addresses) { for(string address : addresses) { Future<string> unresolvedAddress = sendToPeersService.submit(new Callable<string>() { public string call() { Peer peer = Peers.addPeer(address); return peer == null ? address : null; } }); unresolvedPeers.Add(unresolvedAddress); } } Override public void run() { if(! wellKnownPeers.Empty) { loadPeers(wellKnownPeers); } if(usePeersDb) { Logger.logDebugMessage("Loading known peers from the database..."); loadPeers(PeerDb.loadPeers()); } } }, false);
 
 			ThreadPool.runAfterStart(new Runnable() { public void run() { for(Future<string> unresolvedPeer : unresolvedPeers) { try { string badAddress = unresolvedPeer.get(5, TimeUnit.SECONDS); if(badAddress != null) { Logger.logDebugMessage("Failed to resolve peer address: " + badAddress); } } catch(InterruptedException e) { Thread.CurrentThread.interrupt(); } catch(ExecutionException e) { Logger.logDebugMessage("Failed to add peer", e); } catch(TimeoutException e) { } } Logger.logDebugMessage("Known peers: " + peers.size()); } });
 
@@ -626,8 +626,6 @@ namespace nxt.peer
 			}
 		}
 
-//JAVA TO VB & C# CONVERTER WARNING: 'final' parameters are not allowed in .NET:
-//ORIGINAL LINE: static PeerImpl addPeer(final String address, final String announcedAddress)
 		internal static PeerImpl addPeer(string address, string announcedAddress)
 		{
 
@@ -718,8 +716,6 @@ namespace nxt.peer
 			sendToSomePeers(request);
 		}
 
-//JAVA TO VB & C# CONVERTER WARNING: 'final' parameters are not allowed in .NET:
-//ORIGINAL LINE: private static void sendToSomePeers(final JSONObject request)
 		private static void sendToSomePeers(JSONObject request)
 		{
 

@@ -630,7 +630,7 @@ namespace nxt
 			return Goods.goodsTable.getManyBy(dbClause, from, to);
 		}
 
-		public static DbIterator<Goods> getSellerGoods(final long sellerId, final bool inStockOnly, int from, int to)
+		public static DbIterator<Goods> getSellerGoods(long sellerId, bool inStockOnly, int from, int to)
 		{
 //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
 //			DbClause dbClause = new DbClause(" seller_id = ? " + (inStockOnly ? "AND delisted = FALSE AND quantity > 0" : ""))
@@ -659,7 +659,7 @@ namespace nxt
 			return Purchase.purchaseTable.getManyBy(new DbClause.LongClause("buyer_id", buyerId), from, to);
 		}
 
-		public static DbIterator<Purchase> getSellerBuyerPurchases(final long sellerId, final long buyerId, int from, int to)
+		public static DbIterator<Purchase> getSellerBuyerPurchases(long sellerId, final long buyerId, int from, int to)
 		{
 //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
 //			DbClause dbClause = new DbClause(" seller_id = ? AND buyer_id = ? ")
@@ -679,7 +679,7 @@ namespace nxt
 			return Purchase.purchaseTable.get(Purchase.purchaseDbKeyFactory.newKey(purchaseId));
 		}
 
-		public static DbIterator<Purchase> getPendingSellerPurchases(final long sellerId, int from, int to)
+		public static DbIterator<Purchase> getPendingSellerPurchases(long sellerId, int from, int to)
 		{
 //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
 //			DbClause dbClause = new DbClause(" seller_id = ? AND pending = TRUE ")
@@ -699,7 +699,7 @@ namespace nxt
 			return purchase == null || ! purchase.Pending ? null : purchase;
 		}
 
-		private static DbIterator<Purchase> getExpiredPendingPurchases(final int timestamp)
+		private static DbIterator<Purchase> getExpiredPendingPurchases(int timestamp)
 		{
 //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
 //			DbClause dbClause = new DbClause(" deadline < ? AND pending = TRUE ")

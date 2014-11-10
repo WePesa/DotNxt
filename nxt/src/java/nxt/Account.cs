@@ -572,7 +572,7 @@ namespace nxt
 			return lessorsGuaranteedBalanceNQT;
 		}
 
-		private DbClause getLessorsClause(final int height)
+		private DbClause getLessorsClause(int height)
 		{
 //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
 //			return new DbClause(" current_lessee_id = ? AND current_leasing_height_from <= ? AND current_leasing_height_to > ? ")
@@ -601,12 +601,12 @@ namespace nxt
 			return accountTable.getManyBy(getLessorsClause(height), height, 0, -1);
 		}
 
-		public long getGuaranteedBalanceNQT(final int numberOfConfirmations)
+		public long getGuaranteedBalanceNQT(int numberOfConfirmations)
 		{
 			return getGuaranteedBalanceNQT(numberOfConfirmations, Nxt.Blockchain.Height);
 		}
 
-		public long getGuaranteedBalanceNQT(final int numberOfConfirmations, final int currentHeight)
+		public long getGuaranteedBalanceNQT(int numberOfConfirmations, int currentHeight)
 		{
 			if(numberOfConfirmations >= currentHeight)
 			{

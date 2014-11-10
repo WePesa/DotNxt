@@ -73,8 +73,6 @@ namespace nxt.db
 			Trim(table, height, dbKeyFactory);
 		}
 
-//JAVA TO VB & C# CONVERTER WARNING: 'final' parameters are not allowed in .NET:
-//ORIGINAL LINE: static void rollback(final String table, final int height, final DbKey.Factory dbKeyFactory)
 		internal static void rollback(string table, int height, DbKey.Factory dbKeyFactory)
 		{
 			if(!Db.InTransaction)
@@ -110,8 +108,6 @@ namespace nxt.db
 			Db.getCache(table).Clear();
 		}
 
-//JAVA TO VB & C# CONVERTER WARNING: 'final' parameters are not allowed in .NET:
-//ORIGINAL LINE: static void trim(final String table, final int height, final DbKey.Factory dbKeyFactory)
 		internal static void trim(string table, int height, DbKey.Factory dbKeyFactory)
 		{
 			if(!Db.InTransaction)

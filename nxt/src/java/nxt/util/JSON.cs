@@ -14,8 +14,6 @@ namespace nxt.util
 
 		public static readonly JSONStreamAware emptyJSON = prepare(new JSONObject());
 
-//JAVA TO VB & C# CONVERTER WARNING: 'final' parameters are not allowed in .NET:
-//ORIGINAL LINE: public static JSONStreamAware prepare(final JSONObject json)
 		public static JSONStreamAware prepare(JSONObject json)
 		{
 //JAVA TO VB & C# CONVERTER TODO TASK: Anonymous inner classes are not converted to .NET:
@@ -29,8 +27,6 @@ namespace nxt.util
 //		};
 		}
 
-//JAVA TO VB & C# CONVERTER WARNING: 'final' parameters are not allowed in .NET:
-//ORIGINAL LINE: public static JSONStreamAware prepareRequest(final JSONObject json)
 		public static JSONStreamAware prepareRequest(JSONObject json)
 		{
 			json.put("protocol", 1);
