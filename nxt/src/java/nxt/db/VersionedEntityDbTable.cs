@@ -27,7 +27,7 @@ namespace nxt.db
 			}
 			if(!Db.InTransaction)
 			{
-				throw new IllegalStateException("Not in transaction");
+				throw new InvalidOperationException("Not in transaction");
 			}
 			DbKey dbKey = dbKeyFactory.newKey(t);
 			using (Connection con = Db.Connection, PreparedStatement pstmtCount = con.prepareStatement("SELECT COUNT(*) AS count FROM " + table + dbKeyFactory.PKClause + " AND height < ?"))
@@ -79,7 +79,7 @@ namespace nxt.db
 		{
 			if(!Db.InTransaction)
 			{
-				throw new IllegalStateException("Not in transaction");
+				throw new InvalidOperationException("Not in transaction");
 			}
 			using (Connection con = Db.Connection, PreparedStatement pstmtSelectToDelete = con.prepareStatement("SELECT DISTINCT " + dbKeyFactory.PKColumns + " FROM " + table + " WHERE height > ?"), PreparedStatement pstmtDelete = con.prepareStatement("DELETE FROM " + table + " WHERE height > ?"), PreparedStatement pstmtSetLatest = con.prepareStatement("UPDATE " + table + " SET latest = TRUE " + dbKeyFactory.PKClause + " AND height =" + " (SELECT MAX(height) FROM " + table + dbKeyFactory.PKClause + ")"))
 			{
@@ -116,7 +116,7 @@ namespace nxt.db
 		{
 			if(!Db.InTransaction)
 			{
-				throw new IllegalStateException("Not in transaction");
+				throw new InvalidOperationException("Not in transaction");
 			}
 			using (Connection con = Db.Connection, PreparedStatement pstmtSelect = con.prepareStatement("SELECT " + dbKeyFactory.PKColumns + ", MAX(height) AS max_height" + " FROM " + table + " WHERE height < ? GROUP BY " + dbKeyFactory.PKColumns + " HAVING COUNT(DISTINCT height) > 1"), PreparedStatement pstmtDelete = con.prepareStatement("DELETE FROM " + table + dbKeyFactory.PKClause + " AND height < ?"), PreparedStatement pstmtDeleteDeleted = con.prepareStatement("DELETE FROM " + table + " WHERE height < ? AND latest = FALSE " + " AND (" + dbKeyFactory.PKColumns + ") NOT IN (SELECT (" + dbKeyFactory.PKColumns + ") FROM " + table + " WHERE height >= ?)"))
 			{

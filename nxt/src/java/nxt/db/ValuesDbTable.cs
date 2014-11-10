@@ -80,7 +80,7 @@ namespace nxt.db
 		{
 			if(!Db.InTransaction)
 			{
-				throw new IllegalStateException("Not in transaction");
+				throw new InvalidOperationException("Not in transaction");
 			}
 			DbKey dbKey = dbKeyFactory.newKey(t);
 			Db.getCache(table).Add(dbKey, values);

@@ -46,7 +46,7 @@ namespace nxt
 		{
 			if(! lastBlock.compareAndSet(previousBlock, block))
 			{
-				throw new IllegalStateException("Last block is no longer previous block");
+				throw new InvalidOperationException("Last block is no longer previous block");
 			}
 		}
 

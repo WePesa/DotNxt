@@ -737,7 +737,7 @@ namespace nxt
 			}
 			else
 			{
-				throw new IllegalStateException("Goods already delisted");
+				throw new InvalidOperationException("Goods already delisted");
 			}
 		}
 
@@ -751,7 +751,7 @@ namespace nxt
 			}
 			else
 			{
-				throw new IllegalStateException("Can't change price of delisted goods");
+				throw new InvalidOperationException("Can't change price of delisted goods");
 			}
 		}
 
@@ -765,7 +765,7 @@ namespace nxt
 			}
 			else
 			{
-				throw new IllegalStateException("Can't change quantity of delisted goods");
+				throw new InvalidOperationException("Can't change quantity of delisted goods");
 			}
 		}
 

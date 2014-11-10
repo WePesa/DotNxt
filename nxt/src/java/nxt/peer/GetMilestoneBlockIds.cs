@@ -58,7 +58,7 @@ namespace nxt.peer
 					Block lastMilestoneBlock = Nxt.Blockchain.getBlock(Convert.parseUnsignedLong(lastMilestoneBlockIdString));
 					if(lastMilestoneBlock == null)
 					{
-						throw new IllegalStateException("Don't have block " + lastMilestoneBlockIdString);
+						throw new InvalidOperationException("Don't have block " + lastMilestoneBlockIdString);
 					}
 					height = lastMilestoneBlock.Height;
 					jump = Math.Min(1440, Math.Max(blockchainHeight - height, 1));

@@ -47,7 +47,7 @@ namespace nxt.db
 				}
 				else if(! this.Equals(localConnection.get()))
 				{
-					throw new IllegalStateException("Previous connection not committed");
+					throw new InvalidOperationException("Previous connection not committed");
 				}
 				else
 				{
@@ -72,7 +72,7 @@ namespace nxt.db
 				}
 				else if(! this.Equals(localConnection.get()))
 				{
-					throw new IllegalStateException("Previous connection not committed");
+					throw new InvalidOperationException("Previous connection not committed");
 				}
 				else
 				{
@@ -97,7 +97,7 @@ namespace nxt.db
 				}
 				else if(! this.Equals(localConnection.get()))
 				{
-					throw new IllegalStateException("Previous connection not committed");
+					throw new InvalidOperationException("Previous connection not committed");
 				}
 			}
 
@@ -199,7 +199,7 @@ namespace nxt.db
 		{
 			if(!InTransaction)
 			{
-				throw new IllegalStateException("Not in transaction");
+				throw new InvalidOperationException("Not in transaction");
 			}
 			IDictionary<DbKey, object> cacheMap = transactionCaches.get().get(tableName);
 			if(cacheMap == null)
@@ -222,7 +222,7 @@ namespace nxt.db
 		{
 			if(localConnection.get() != null)
 			{
-				throw new IllegalStateException("Transaction already in progress");
+				throw new InvalidOperationException("Transaction already in progress");
 			}
 			try
 			{
@@ -244,7 +244,7 @@ namespace nxt.db
 			DbConnection con = localConnection.get();
 			if(con == null)
 			{
-				throw new IllegalStateException("Not in transaction");
+				throw new InvalidOperationException("Not in transaction");
 			}
 			try
 			{
@@ -261,7 +261,7 @@ namespace nxt.db
 			DbConnection con = localConnection.get();
 			if(con == null)
 			{
-				throw new IllegalStateException("Not in transaction");
+				throw new InvalidOperationException("Not in transaction");
 			}
 			try
 			{
@@ -279,7 +279,7 @@ namespace nxt.db
 			Connection con = localConnection.get();
 			if(con == null)
 			{
-				throw new IllegalStateException("Not in transaction");
+				throw new InvalidOperationException("Not in transaction");
 			}
 			localConnection.set(null);
 			transactionCaches.get().clear();

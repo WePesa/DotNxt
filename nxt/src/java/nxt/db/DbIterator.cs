@@ -83,7 +83,7 @@ namespace nxt.db
 		{
 			if(iterated)
 			{
-				throw new IllegalStateException("Already iterated");
+				throw new InvalidOperationException("Already iterated");
 			}
 			iterated = true;
 			return this;

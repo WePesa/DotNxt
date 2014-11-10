@@ -221,7 +221,7 @@ namespace nxt
 			{
 				if(height == -1)
 				{
-					throw new IllegalStateException("Block height not yet set");
+					throw new InvalidOperationException("Block height not yet set");
 				}
 				return height;
 			}
@@ -235,7 +235,7 @@ namespace nxt
 				{
 					if(blockSignature == null)
 					{
-						throw new IllegalStateException("Block is not signed yet");
+						throw new InvalidOperationException("Block is not signed yet");
 					}
 					sbyte[] hash = Crypto.sha256().digest(Bytes);
 					BigInteger bigInteger = new BigInteger(1, new sbyte[] {hash[7], hash[6], hash[5], hash[4], hash[3], hash[2], hash[1], hash[0]});
@@ -381,7 +381,7 @@ namespace nxt
 		{
 			if(blockSignature != null)
 			{
-				throw new IllegalStateException("Block already signed");
+				throw new InvalidOperationException("Block already signed");
 			}
 			blockSignature = new sbyte[64];
 			sbyte[] data = Bytes;
@@ -491,7 +491,7 @@ namespace nxt
 					if(value.Id != PreviousBlockId)
 					{
 					// shouldn't happen as previous id is already verified, but just in case
-						throw new IllegalStateException("Previous block id doesn't match");
+                        throw new InvalidOperationException("Previous block id doesn't match");
 					}
 					this.height = value.Height + 1;
 					this.calculateBaseTarget(value);

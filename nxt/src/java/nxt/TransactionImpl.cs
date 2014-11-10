@@ -472,7 +472,7 @@ namespace nxt
 				{
 					if(signature == null)
 					{
-						throw new IllegalStateException("Transaction is not signed yet");
+						throw new InvalidOperationException("Transaction is not signed yet");
 					}
 					sbyte[] hash;
 					if(useNQT())
@@ -843,7 +843,7 @@ namespace nxt
 		{
 			if(signature != null)
 			{
-				throw new IllegalStateException("Transaction already signed");
+				throw new InvalidOperationException("Transaction already signed");
 			}
 			signature = Crypto.sign(Bytes, secretPhrase);
 		}

@@ -24,7 +24,7 @@ namespace nxt.util
 		{
 			if(scheduledThreadPool != null)
 			{
-				throw new IllegalStateException("Executor service already started");
+				throw new InvalidOperationException("Executor service already started");
 			}
 			if(runLast)
 			{
@@ -53,7 +53,7 @@ namespace nxt.util
 		{
 			if(scheduledThreadPool != null)
 			{
-				throw new IllegalStateException("Executor service already started, no new jobs accepted");
+				throw new InvalidOperationException("Executor service already started, no new jobs accepted");
 			}
 			if(! Nxt.getBooleanProperty("nxt.disable" + name + "Thread"))
 			{
@@ -70,7 +70,7 @@ namespace nxt.util
 		{
 			if(scheduledThreadPool != null)
 			{
-				throw new IllegalStateException("Executor service already started");
+				throw new InvalidOperationException("Executor service already started");
 			}
 
 			Logger.logDebugMessage("Running " + beforeStartJobs.Count + " tasks...");

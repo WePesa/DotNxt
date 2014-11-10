@@ -306,7 +306,7 @@ namespace nxt.db
 		{
 			if(!Db.InTransaction)
 			{
-				throw new IllegalStateException("Not in transaction");
+				throw new InvalidOperationException("Not in transaction");
 			}
 			DbKey dbKey = dbKeyFactory.newKey(t);
 			T cachedT = (T)Db.getCache(table)[dbKey];
@@ -316,7 +316,7 @@ namespace nxt.db
 			} // not a bug
 			else if(t != cachedT)
 			{
-				throw new IllegalStateException("Different instance found in Db cache, perhaps trying to save an object " + "that was read outside the current transaction");
+				throw new InvalidOperationException("Different instance found in Db cache, perhaps trying to save an object " + "that was read outside the current transaction");
 			}
 			using (Connection con = Db.Connection)
 			{

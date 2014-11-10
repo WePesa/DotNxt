@@ -21,7 +21,7 @@ namespace nxt.db
 		{
 			if(!Db.InTransaction)
 			{
-				throw new IllegalStateException("Not in transaction");
+				throw new InvalidOperationException("Not in transaction");
 			}
 			using (Connection con = Db.Connection, PreparedStatement pstmtDelete = con.prepareStatement("DELETE FROM " + table + " WHERE height > ?"))
 			{
@@ -38,7 +38,7 @@ namespace nxt.db
 		{
 			if(!Db.InTransaction)
 			{
-				throw new IllegalStateException("Not in transaction");
+				throw new InvalidOperationException("Not in transaction");
 			}
 			using (Connection con = Db.Connection, Statement stmt = con.createStatement())
 			{

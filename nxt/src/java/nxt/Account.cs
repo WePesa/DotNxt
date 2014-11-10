@@ -772,11 +772,11 @@ namespace nxt
 		{
 			if(! setOrVerify(key, this.creationHeight))
 			{
-				throw new IllegalStateException("Public key mismatch");
+				throw new InvalidOperationException("Public key mismatch");
 			}
 			if(this.publicKey == null)
 			{
-				throw new IllegalStateException("Public key has not been set for account " + Convert.toUnsignedLong(id) +" at height " + height + ", key height is " + keyHeight);
+				throw new InvalidOperationException("Public key has not been set for account " + Convert.toUnsignedLong(id) +" at height " + height + ", key height is " + keyHeight);
 			}
 			if(this.keyHeight == -1 || this.keyHeight > height)
 			{
